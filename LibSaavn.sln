@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaavnCliApp", "SaavnCliApp\SaavnCliApp.csproj", "{7DC93040-050D-4699-A8DF-9DFC2501DA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaavnLib", "Lib\SaavnLib.csproj", "{64F166E9-A179-414D-87F2-24A9ED2C3878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC93040-050D-4699-A8DF-9DFC2501DA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC93040-050D-4699-A8DF-9DFC2501DA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC93040-050D-4699-A8DF-9DFC2501DA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC93040-050D-4699-A8DF-9DFC2501DA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F166E9-A179-414D-87F2-24A9ED2C3878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F166E9-A179-414D-87F2-24A9ED2C3878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F166E9-A179-414D-87F2-24A9ED2C3878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F166E9-A179-414D-87F2-24A9ED2C3878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
